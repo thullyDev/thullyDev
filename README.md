@@ -16,10 +16,10 @@
 </div> 
 
 <div align = "center"> 
-	<a href="https://linkedin.com/in/yourprofile" target="_blank">
+	<a href="https://linkedin.com/in/thulaganyo-mooki" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
-	<a href="mailto:youraddress@gmail.com" target="_blank">
+	<a href="mailto:thulaganyo.mooki.pro@gmail.com" target="_blank">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
 </div>
