@@ -1,6 +1,6 @@
 <h1 style="font-size: 1.25rem;" align = "center" >
   <img src="https://media.tenor.com/eeur7VuCbmkAAAAi/anime-rikka.gif" width="30px"/>
-	Explore my portfolio and let’s create something epic! <img src="https://media.tenor.com/eeur7VuCbmkAAAAi/anime-rikka.gif" width="30px"/>
+	Explore and let’s create something epic! <img src="https://media.tenor.com/eeur7VuCbmkAAAAi/anime-rikka.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
@@ -143,6 +143,13 @@
       <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaNato.api&theme=dark" media="(prefers-color-scheme: dark)"/>
       <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaNato.api&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaNato.api" alt="MangaNato.api Repository" />
+    </picture>
+  </a>
+  <a href="https://github.com/thullyDev/hentai20.api">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=hentai20.api&theme=dark" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=hentai20.api&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=hentai20.api" alt="hentai20.api Repository" />
     </picture>
   </a>
   <a href="https://github.com/thullyDev/MangaReader.api">
