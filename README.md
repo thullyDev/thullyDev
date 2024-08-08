@@ -1,5 +1,5 @@
 <div align = "center" >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20I%20am%20a%20Fullstack%20Developer&fontSize=50&fontColor=black&animation=fadeIn&fontAlignY=38&desc=With%20Backend%20as%20my%20Main&descAlignY=51&descAlign=62&descColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20I%20am%20a%20Fullstack%20Developer&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=With%20Backend%20as%20my%20Main&descAlignY=51&descAlign=62&descColor=white"/>
 </div>
 
 <div id="header" align="center">
@@ -176,5 +176,5 @@
 </p>
 
 <div align = "center" >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Reading!&fontSize=50&fontColor=black&animation=fadeIn&fontAlignY=38&desc=I%20hope%20we%20can%20work%20together!&descAlignY=51&descAlign=62&descColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Reading!&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=I%20hope%20we%20can%20work%20together!&descAlignY=51&descAlign=62&descColor=white"/>
 </div>
