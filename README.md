@@ -10,8 +10,7 @@
 
 <div id="about-me" align="center" style="padding: 20px; display: flex; margin-bottom: 20px;">
 	<p>
-		I'm an experienced full stack programmer with a strong focus on backend development. I started coding in grade 10 of high school and have since built a career around my passions for anime and games, creating manga and anime websites <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I’m excited about the future and eager to explore even more opportunities to grow and innovate in my career.
-	<p/>
+		I'm an experienced full stack programmer with a strong focus on backend development. I started coding in grade 10 of high school and have since built a career around my passions for anime and games, creating manga and anime websites <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I’m excited about the future and eager to explore even more opportunities to grow and innovate in my career. <b>thulaganyo.mooki.pro@gmail.com</b> 
 </div> 
 
 <div align = "center"> 
@@ -61,6 +60,8 @@
 </h2>
 
 <p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thullyDev&theme=dracula" alt="Top languages" />
+
   <a href="https://github.com/thullyDev">
     <picture sizes="180em">
       <source
