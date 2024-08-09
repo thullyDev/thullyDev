@@ -63,29 +63,8 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thullyDev&theme=dracula" alt="Top languages" />
 
   <a href="https://github.com/thullyDev">
-    <picture sizes="180em">
-      <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=thullyDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=thullyDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thullyDev&show_icons=true&include_all_commits=true&count_private=false&theme=dracula" alt="Profile summary" />
-    </picture>
-
-  <picture sizes="180em">
-  <source
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thullyDev&layout=compact&langs_count=8&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thullyDev&layout=compact&langs_count=8&theme=dracula"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thullyDev&layout=compact&langs_count=8&theme=dracula" alt="Top languages" />
-</picture>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thullyDev&layout=compact&langs_count=8&theme=dracula" alt="Top languages" />
   </a>
 </p>
 
