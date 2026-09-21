@@ -25,9 +25,9 @@
 <h2 align="center">⚡ About me</h2>
 
 <div align="center">
-  I'm an experienced full stack programmer with a strong focus on backend development. I started coding in grade 10 of high school and have since built a career around my passions for anime and games, creating manga and anime websites. I’m excited about the future and eager to explore even more opportunities to grow and innovate in my career.
+  🔥 Programmer 👨‍💻 · Weeb 😄 · Manga reader 👀 · South African 🇿🇦
   <br /><br />
-  <b>thulaganyo.mooki.pro@gmail.com</b>
+  <a href="mailto:thulaganyo.mooki.pro@gmail.com"><b>thulaganyo.mooki.pro@gmail.com</b></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
