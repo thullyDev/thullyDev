@@ -81,52 +81,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center">🗂️ Repositories</h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://github.com/thullyDev/MangaRealm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaRealm&theme=dracula&hide_border=true" alt="MangaRealm Repository" />
-  </a>
-</p>
-
-<h3 align="center">Fullstack</h3>
-<p align="center">
-  <a href="https://github.com/thullyDev/AnimeHoshi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=AnimeHoshi&theme=dracula&hide_border=true" alt="AnimeHoshi Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/As2anime.docs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=As2anime.docs&theme=dracula&hide_border=true" alt="As2anime.docs Repository" />
-  </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://github.com/thullyDev/MangaRealm.api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaRealm.api&theme=dracula&hide_border=true" alt="MangaRealm.api Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/Authenticator.api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=Authenticator.api&theme=dracula&hide_border=true" alt="Authenticator.api Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/MangaNato.api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaNato.api&theme=dracula&hide_border=true" alt="MangaNato.api Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/hentai20.api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=hentai20.api&theme=dracula&hide_border=true" alt="hentai20.api Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/MangaReader.api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=MangaReader.api&theme=dracula&hide_border=true" alt="MangaReader.api Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/GodsApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=GodsApi&theme=dracula&hide_border=true" alt="GodsApi Repository" />
-  </a>
-  <a href="https://github.com/thullyDev/liveChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thullyDev&repo=liveChat&theme=dracula&hide_border=true" alt="liveChat Repository" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by;Let's+build+something+together" alt="footer" />
 </p>
